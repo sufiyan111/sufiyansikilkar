@@ -51,6 +51,10 @@ public class Flipkart {
 			
 			String pricelist =item.get(i).getText();
 			System.out.println(pricelist);
+			System.out.println(pricelist);
+			
+			System.out.println(pricelist);
+			System.out.println(pricelist);
 		}
 		
 		
