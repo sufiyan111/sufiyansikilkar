@@ -63,6 +63,10 @@ public class Flipkart {
 		System.out.println("Flipkart");
 		System.out.println("Flipkart");
 		
+		System.out.println("Snapdeal");
+		System.out.println("Snapdeal");
+		System.out.println("Snapdeal");
+		
 		
 		
 		
