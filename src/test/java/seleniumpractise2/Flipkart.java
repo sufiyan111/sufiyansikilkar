@@ -57,6 +57,14 @@ public class Flipkart {
 			System.out.println(pricelist);
 		}
 		
+		System.out.println("Flipkart");
+		System.out.println("Flipkart");
+		System.out.println("Flipkart");
+		System.out.println("Flipkart");
+		System.out.println("Flipkart");
+		
+		
+		
 		
 		}
 		
