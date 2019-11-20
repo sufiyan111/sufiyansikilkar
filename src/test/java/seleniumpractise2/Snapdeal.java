@@ -64,13 +64,8 @@ public class Snapdeal {
 			driver.findElement(By.xpath("//div[@id='products']/section/div/div[3]/div/a/div/div/span[2]")).click();
 				break;
 				
-				System.out.println("Flipkart");
-				System.out.println("Flipkart");
-				System.out.println("Flipkart");
 				
-				System.out.println("Snapdeal");
-				System.out.println("Snapdeal");
-				System.out.println("Snapdeal");
+				
 				
 			}
 			//System.out.println(finalprice);
